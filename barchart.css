@@ -1,0 +1,26 @@
+-/* here's how we write a comment in CSS */
+body {
+  margin:0;
+  padding: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+text {
+  fill: #333;
+}
+
+.axis--x path {
+  display: none;
+}
+
+.bar {
+  fill: steelblue;
+}
+
+.bar:hover {
+  fill: brown;
+}
+
+.bar-label {
+  font-size: 0.8em;
+}
